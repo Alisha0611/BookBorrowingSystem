@@ -1,0 +1,40 @@
+<div class="book-list">
+    <h4 style="color:#44a8c4" class="mt-3">User History</h4>
+    <div class="">
+      <table class="table table-bordered table-responsive">
+        <thead>
+          <tr>
+              <!-- <th scope="col" class="head">Image</th> -->
+              <th scope="col" class="head">Name</th>
+              <th scope="col" class="head">Author</th>
+              <th scope="col" class="head">Genre</th>
+              <th scope="col" class="head">Borrowed/Lent</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let book of bookList"> 
+            
+            <!-- <td><img src="{{book.image}}" class="img-fluid"/></td> -->
+            <td>{{book.name}}</td>
+            <td>{{book.author}}</td>
+            <td>{{book.genre}}</td>
+            <td>
+                <p>Lent</p>
+            </td>
+          </tr>
+          <tr *ngFor="let book of borrowedBooks"> 
+            
+            <!-- <td><img src="{{book.image}}" class="img-fluid"/></td> -->
+            <td>{{book.name}}</td>
+            <td>{{book.author}}</td>
+            <td>{{book.genre}}</td>
+            <td>
+                <p>Borrowed</p>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  
+  </div>
+  

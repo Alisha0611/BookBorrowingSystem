@@ -1,0 +1,15 @@
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.BLL.Interfaces\bin\Debug\net6.0\BookApp.BLL.Interfaces.deps.json
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.BLL.Interfaces\bin\Debug\net6.0\BookApp.BLL.Interfaces.dll
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.BLL.Interfaces\bin\Debug\net6.0\BookApp.BLL.Interfaces.pdb
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.BLL.Interfaces\bin\Debug\net6.0\BookApp.DAL.dll
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.BLL.Interfaces\bin\Debug\net6.0\BookApp.DAL.pdb
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.BLL.Interfaces\obj\Debug\net6.0\BookApp.BLL.Interfaces.csproj.AssemblyReference.cache
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.BLL.Interfaces\obj\Debug\net6.0\BookApp.BLL.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.BLL.Interfaces\obj\Debug\net6.0\BookApp.BLL.Interfaces.AssemblyInfoInputs.cache
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.BLL.Interfaces\obj\Debug\net6.0\BookApp.BLL.Interfaces.AssemblyInfo.cs
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.BLL.Interfaces\obj\Debug\net6.0\BookApp.BLL.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.BLL.Interfaces\obj\Debug\net6.0\BookApp.BLL.Interfaces.csproj.CopyComplete
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.BLL.Interfaces\obj\Debug\net6.0\BookApp.BLL.Interfaces.dll
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.BLL.Interfaces\obj\Debug\net6.0\refint\BookApp.BLL.Interfaces.dll
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.BLL.Interfaces\obj\Debug\net6.0\BookApp.BLL.Interfaces.pdb
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.BLL.Interfaces\obj\Debug\net6.0\ref\BookApp.BLL.Interfaces.dll

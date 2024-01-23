@@ -1,0 +1,14 @@
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.DAL\bin\Debug\net6.0\BookApp.DAL.deps.json
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.DAL\bin\Debug\net6.0\BookApp.DAL.runtimeconfig.json
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.DAL\bin\Debug\net6.0\BookApp.DAL.dll
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.DAL\bin\Debug\net6.0\BookApp.DAL.pdb
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.DAL\obj\Debug\net6.0\BookApp.DAL.csproj.AssemblyReference.cache
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.DAL\obj\Debug\net6.0\BookApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.DAL\obj\Debug\net6.0\BookApp.DAL.AssemblyInfoInputs.cache
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.DAL\obj\Debug\net6.0\BookApp.DAL.AssemblyInfo.cs
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.DAL\obj\Debug\net6.0\BookApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.DAL\obj\Debug\net6.0\BookApp.DAL.dll
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.DAL\obj\Debug\net6.0\refint\BookApp.DAL.dll
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.DAL\obj\Debug\net6.0\BookApp.DAL.pdb
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.DAL\obj\Debug\net6.0\BookApp.DAL.genruntimeconfig.cache
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.DAL\obj\Debug\net6.0\ref\BookApp.DAL.dll

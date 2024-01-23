@@ -1,0 +1,128 @@
+/* .nav{
+    display:flex;
+    justify-content:space-between;
+}
+.nav h1{
+    color:blueviolet;
+    margin:0;
+    font-size:40px;
+}
+.nav ul{
+    display:inline-flex;
+    list-style-type:none;
+    margin:0;
+    padding:0;
+
+}
+.nav li{
+    padding-left:15px;
+    padding-top:15px;
+}
+.nav li a{
+    text-decoration:none;
+    color:blueviolet;
+    cursor:pointer;
+}
+.nav .nav-search{
+    margin-top:5px;
+    flex:1;
+    display:flex;
+    margin-left:5%;
+    margin-right:5%;
+}
+.nav .nav-search input{
+    flex:1;
+    color:blueviolet;
+    border:1px solid blueviolet;
+    height:39px;
+    border-right:0px;
+}
+.nav .nav-search button{
+    
+    color:blueviolet;
+    border:1px solid blueviolet;
+    height:39px;
+    border-left:0px;
+}
+h1 a{
+    color:blueviolet;
+    text-decoration:none;
+}
+.suggested-result{
+    position:absolute;
+    display:list-item !important;
+    z-index:10;
+    background-color:#fff;
+    width:300px;
+    top:40px;
+    border:1px solid #ddd;
+}
+.suggested-result li{
+    border:1px solid #ddd;
+    padding:5px;
+}
+.suggested-result li a{
+   cursor:pointer;
+   color:blueviolet;
+} */
+
+.nav{
+    display:flex;
+    justify-content:space-between;
+}
+.nav .nav-search{
+    flex:1;
+    display:flex;
+    margin-left:5%;
+    margin-right:5%;
+    padding: 0;
+}
+.nav .nav-search input{
+    flex:1;
+    color:#44a8c4;
+    border:1px solid #44a8c4;
+    height:39px;
+    border-right:0px;
+}
+.nav .nav-search button{
+    
+    color:#44a8c4;
+    border:1px solid #44a8c4;
+    height:39px;
+    border-left:0px;
+}
+
+.border{
+    color: #44a8c4;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 0.2rem 0.4rem;
+}
+
+.nav-search {
+    flex: 1;
+    display: flex;
+    padding: 1rem;
+    padding-bottom: 0rem;
+  }
+  
+.nav-search input {
+      flex: 1;
+      color: #44a8c4;
+      border: 1px solid #44a8c4;
+      height: 39px;
+      border-right: none;
+  }
+
+.nav-search button{
+    color: #44a8c4;
+    border: 1px solid #44a8c4;          
+    height: 39px;
+} 
+
+.xyz{
+    float: right;
+}

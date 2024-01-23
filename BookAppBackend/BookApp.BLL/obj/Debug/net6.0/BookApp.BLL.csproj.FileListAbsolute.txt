@@ -1,0 +1,17 @@
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.BLL\bin\Debug\net6.0\BookApp.BLL.deps.json
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.BLL\bin\Debug\net6.0\BookApp.BLL.dll
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.BLL\bin\Debug\net6.0\BookApp.BLL.pdb
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.BLL\bin\Debug\net6.0\BookApp.BLL.Interfaces.dll
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.BLL\bin\Debug\net6.0\BookApp.DAL.dll
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.BLL\bin\Debug\net6.0\BookApp.BLL.Interfaces.pdb
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.BLL\bin\Debug\net6.0\BookApp.DAL.pdb
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.BLL\obj\Debug\net6.0\BookApp.BLL.csproj.AssemblyReference.cache
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.BLL\obj\Debug\net6.0\BookApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.BLL\obj\Debug\net6.0\BookApp.BLL.AssemblyInfoInputs.cache
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.BLL\obj\Debug\net6.0\BookApp.BLL.AssemblyInfo.cs
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.BLL\obj\Debug\net6.0\BookApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.BLL\obj\Debug\net6.0\BookApp.BLL.csproj.CopyComplete
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.BLL\obj\Debug\net6.0\BookApp.BLL.dll
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.BLL\obj\Debug\net6.0\refint\BookApp.BLL.dll
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.BLL\obj\Debug\net6.0\BookApp.BLL.pdb
+C:\Users\alishasrivastava\Desktop\BookBorrowingSystem\BookAppBackend\BookApp.BLL\obj\Debug\net6.0\ref\BookApp.BLL.dll

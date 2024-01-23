@@ -1,0 +1,18 @@
+.group{
+    border: none;
+    width: 450px;
+    padding: 20px;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+  }
+  h3{
+    text-align: center;
+    color: #44a8c4;
+  }
+  
+  .form-group{
+    padding-bottom: 8px;
+  }
+  

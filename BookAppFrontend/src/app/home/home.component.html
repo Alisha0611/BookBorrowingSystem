@@ -1,0 +1,67 @@
+<div class="book-list">
+
+  <div class="nav-search mt-3 ">
+      <form (ngSubmit)="submit()" class="row">
+        <input class="form-control col-auto " type="text" name="search" placeholder="Search for books" [(ngModel)]="search" />
+        <button type="submit" class="col-auto">Search</button>
+        <button (click)="reset()" class="col-auto">Reset</button>
+      </form>
+  </div>
+
+  <h4 style="color:#44a8c4" class="mt-3">All Books</h4>
+  <div class="">
+    <table class="table table-bordered table-responsive">
+      <thead>
+        <tr>
+          <!-- <th scope="col" class="head">Image</th> -->
+          <th scope="col" class="head">Name</th>
+          <th scope="col" class="head">Author</th>
+          <th scope="col" class="head">Genre</th>
+          <th scope="col" class="head">Borrow</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let book of bookList ; let i=index">
+
+          <!-- <td><img src="{{book.image}}" class="img-fluid"/></td> -->
+          <td>{{book.name}}</td>
+          <td>{{book.author}}</td>
+          <td>{{book.genre}}</td>
+          <td class="button">
+            <button type="button" (click)="setIndex(i)" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+              Borrow
+            </button>
+
+            <!-- Modal -->
+            <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel"
+              aria-hidden="true">
+              <div class="modal-dialog">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">{{bookList[bookIndex].name}}</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                  </div>
+                  <div class="modal-body">
+                    <p>Author: {{bookList[bookIndex].author}}</p>
+                    <p>Rating: {{bookList[bookIndex].rating}}</p>
+                    <p>Genre: {{bookList[bookIndex].genre}}</p>
+                    <p>Description: {{bookList[bookIndex].description}}</p>
+                    <p>Lent By: {{bookList[bookIndex].lentByUserId}}</p>
+                  </div>
+                  <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary" *ngIf="loginCheck()" data-bs-dismiss="modal" (click)="borrowBook(bookIndex)">Borrow</button>
+                    <button type="button" class="btn btn-primary" *ngIf="!loginCheck()" routerLink="/login" data-bs-dismiss="modal">Login First</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+
+
+</div>

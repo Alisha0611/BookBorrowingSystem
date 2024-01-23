@@ -1,0 +1,15 @@
+<div class="user-login group">
+    <h2 class="text-color">User Login</h2>
+    <form #userLogin="ngForm" (ngSubmit)="login(userLogin.value)">
+      <p class="error-p">{{authError}}</p>
+      <div class="form-group">
+        <input class="form-control" type="text" placeholder="Enter Username" name="username" ngModel #username="ngModel" required username/>
+        <span style="color: red; font-size: 12px;" *ngIf="username && username.invalid && username.touched">Username is invalid</span>
+      </div>
+      <div class="form-group">
+        <input class="form-control" type="password" placeholder="Enter Password" name="password" ngModel #password="ngModel" required minlength="8" />
+        <span style="color: red; font-size: 12px;" *ngIf="password && password.invalid && password.touched">Password is invalid</span>
+      </div>
+      <button [disabled]="userLogin.invalid" class="form-button btn" >Login</button>
+    </form>
+  </div>
