@@ -8,4 +8,4 @@ spec:
   lifecycle: experimental
   techdocs:
     lifecycle: experimental
-    path: "url:https://github.com/Alisha0611/BookBorrowingSystem/blob/main/README.md"
+    path: url:https://github.com/Alisha0611/BookBorrowingSystem/tree/main
