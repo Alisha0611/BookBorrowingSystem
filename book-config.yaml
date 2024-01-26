@@ -2,10 +2,10 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: "BookBorrowingSystem"
+  annotations:
+    backstage.io/techdocs-ref: url:https://github.com/Alisha0611/BookBorrowingSystem/tree/main
 spec:
   type: service
   owner: user:guest
   lifecycle: experimental
-  techdocs:
-    lifecycle: experimental
-    path: url:https://github.com/Alisha0611/BookBorrowingSystem/tree/main
+ 
