@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: "BookBorrowingSystem"
   annotations:
-    backstage.io/techdocs-ref: "url:https://github.com/Alisha0611/BookBorrowingSystem/blob/main/README.md"
+    backstage.io/techdocs-ref: "https://github.com/Alisha0611/BookBorrowingSystem/blob/main/README.md"
 spec:
   type: service
   owner: user:guest
