@@ -1,11 +1,17 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "BookBorrowingSystem"
+  name: BookBorrowingSystem
+  description: Book Borrowing web app
+  labels:
+    system: web-apps
+  links:
+    - url: https://github.com/Alisha0611/BookBorrowingSystem
+      title: Backstage Sample Service GitHub
+      icon: code
   annotations:
-    backstage.io/techdocs-ref: url:https://github.com/Alisha0611/BookBorrowingSystem/tree/main
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: service
-  owner: user:guest
   lifecycle: experimental
- 
+  owner: user:guest
