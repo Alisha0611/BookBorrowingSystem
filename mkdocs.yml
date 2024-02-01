@@ -1,3 +1,5 @@
 site_name: 'BookBorrowingSystem'
+nav:
+  - Home: index.md
 plugins:
   - techdocs
