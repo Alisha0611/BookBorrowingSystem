@@ -1,5 +1,3 @@
 site_name: 'BookBorrowingSystem'
-nav:
-  - Home: README.md
 plugins:
   - techdocs-core
