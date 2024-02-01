@@ -4,7 +4,7 @@ metadata:
   name: BookBorrowingSystem
   description: Book Borrowing web app
   annotations:
-    backstage.io/techdocs-ref: url: https://github.com/Alisha0611/BookBorrowingSystem/tree/main
+    backstage.io/techdocs-ref: url:https://github.com/Alisha0611/BookBorrowingSystem/tree/main
 spec:
   type: service
   lifecycle: experimental
