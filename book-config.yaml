@@ -3,14 +3,8 @@ kind: Component
 metadata:
   name: BookBorrowingSystem
   description: Book Borrowing web app
-  labels:
-    system: web-apps
-  links:
-    - url: https://github.com/Alisha0611/BookBorrowingSystem
-      title: Backstage Sample Service GitHub
-      icon: code
   annotations:
-    backstage.io/techdocs-ref: dir:.
+    backstage.io/techdocs-ref: url: https://github.com/Alisha0611/BookBorrowingSystem/tree/main
 spec:
   type: service
   lifecycle: experimental
